@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c13db06.css",
-    "main.js": "/static/js/main.bcb28a44.js",
+    "main.css": "/static/css/main.67b5cc77.css",
+    "main.js": "/static/js/main.85f69255.js",
     "static/js/787.e5860435.chunk.js": "/static/js/787.e5860435.chunk.js",
-    "static/media/preview.gif": "/static/media/preview.401a503bd23e8818bdc8.gif",
+    "static/media/preview.gif": "/static/media/preview.312b8f2b3f6ba2660fda.gif",
     "static/media/3.png": "/static/media/3.2049e57e815cb78bb1e1.png",
     "static/media/PygraShowcase.png": "/static/media/PygraShowcase.970b829e5e8985a70906.png",
     "static/media/6.png": "/static/media/6.947fa939bbe8f8db5886.png",
@@ -20,12 +20,12 @@
     "static/media/happy_pygra.png": "/static/media/happy_pygra.1fd8d6476232d8182d21.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.8c13db06.css.map": "/static/css/main.8c13db06.css.map",
-    "main.bcb28a44.js.map": "/static/js/main.bcb28a44.js.map",
+    "main.67b5cc77.css.map": "/static/css/main.67b5cc77.css.map",
+    "main.85f69255.js.map": "/static/js/main.85f69255.js.map",
     "787.e5860435.chunk.js.map": "/static/js/787.e5860435.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c13db06.css",
-    "static/js/main.bcb28a44.js"
+    "static/css/main.67b5cc77.css",
+    "static/js/main.85f69255.js"
   ]
 }
