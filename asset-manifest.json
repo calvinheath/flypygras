@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flypygras/static/css/main.10671cf0.css",
-    "main.js": "/flypygras/static/js/main.03ff58de.js",
+    "main.css": "/flypygras/static/css/main.8a24d9bd.css",
+    "main.js": "/flypygras/static/js/main.d4e40706.js",
     "static/js/787.e5860435.chunk.js": "/flypygras/static/js/787.e5860435.chunk.js",
     "static/media/preview.gif": "/flypygras/static/media/preview.401a503bd23e8818bdc8.gif",
     "static/media/3.png": "/flypygras/static/media/3.2049e57e815cb78bb1e1.png",
@@ -10,6 +10,7 @@
     "static/media/1.png": "/flypygras/static/media/1.896e44dbba2252276e86.png",
     "static/media/2.png": "/flypygras/static/media/2.f359ec2e61e800beeb45.png",
     "static/media/4.png": "/flypygras/static/media/4.49bdc6a17f24f64d9022.png",
+    "static/media/bg.png": "/flypygras/static/media/bg.daf573384b94cadff7d0.png",
     "static/media/NewYork.otf": "/flypygras/static/media/NewYork.86e747d8b10ce7e39527.otf",
     "static/media/5.png": "/flypygras/static/media/5.fd9e63ec0302d6e1d4fc.png",
     "static/media/logo.png": "/flypygras/static/media/logo.d88266b99b345a8a0568.png",
@@ -19,12 +20,12 @@
     "static/media/happy_pygra.png": "/flypygras/static/media/happy_pygra.1fd8d6476232d8182d21.png",
     "static/media/logo.svg": "/flypygras/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/flypygras/index.html",
-    "main.10671cf0.css.map": "/flypygras/static/css/main.10671cf0.css.map",
-    "main.03ff58de.js.map": "/flypygras/static/js/main.03ff58de.js.map",
+    "main.8a24d9bd.css.map": "/flypygras/static/css/main.8a24d9bd.css.map",
+    "main.d4e40706.js.map": "/flypygras/static/js/main.d4e40706.js.map",
     "787.e5860435.chunk.js.map": "/flypygras/static/js/787.e5860435.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10671cf0.css",
-    "static/js/main.03ff58de.js"
+    "static/css/main.8a24d9bd.css",
+    "static/js/main.d4e40706.js"
   ]
 }
