@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.fafac085.css",
-    "main.js": "/static/js/main.fae9bf87.js",
+    "main.css": "/static/css/main.818718b0.css",
+    "main.js": "/static/js/main.dbb739bf.js",
     "static/js/787.e5860435.chunk.js": "/static/js/787.e5860435.chunk.js",
     "static/media/preview.gif": "/static/media/preview.312b8f2b3f6ba2660fda.gif",
-    "static/media/3.png": "/static/media/3.2049e57e815cb78bb1e1.png",
     "static/media/PygraShowcase.png": "/static/media/PygraShowcase.fb1a1136d5b4d6ad89aa.png",
     "static/media/6.png": "/static/media/6.947fa939bbe8f8db5886.png",
+    "static/media/15.png": "/static/media/15.3e6005a5ef088cd3a6d4.png",
     "static/media/8.png": "/static/media/8.8d61f344ab10f9ec98c9.png",
     "static/media/1.png": "/static/media/1.896e44dbba2252276e86.png",
     "static/media/7.png": "/static/media/7.07b966dd3f593f1d68e2.png",
@@ -28,12 +28,12 @@
     "static/media/Bubasaur.ttf": "/static/media/Bubasaur.edb5360713eadd466dfa.ttf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.fafac085.css.map": "/static/css/main.fafac085.css.map",
-    "main.fae9bf87.js.map": "/static/js/main.fae9bf87.js.map",
+    "main.818718b0.css.map": "/static/css/main.818718b0.css.map",
+    "main.dbb739bf.js.map": "/static/js/main.dbb739bf.js.map",
     "787.e5860435.chunk.js.map": "/static/js/787.e5860435.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fafac085.css",
-    "static/js/main.fae9bf87.js"
+    "static/css/main.818718b0.css",
+    "static/js/main.dbb739bf.js"
   ]
 }
